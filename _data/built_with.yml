@@ -1,23 +1,23 @@
-- name: Fomantic UI
-  url: https://fomantic-ui.com/
+- name: 留学评估
+  url: http://liuxue.xdf.cn/Evaluation/
 
-- name: jQuery
-  url: https://jquery.com/
+- name: 答疑中心
+  url: http://liuxue.xdf.cn/dydt/
 
-- name: Day.js
-  url: https://github.com/iamkun/dayjs
+- name: 免费电话
+  url: http://chat.looyu.com/chat/chat/p.do?n=xdfqiantumfdh&c=27975&f=73350&site=0&ct=120&lang=sc&refer=&command=freePhone
 
-- name: CountUp.js
-  url: https://inorganik.github.io/countUp.js/
+# - name: CountUp.js
+  # url: https://inorganik.github.io/countUp.js/
 
-- name: jQuery.countdown
-  url: https://hilios.github.io/jQuery.countdown/
+# - name: jQuery.countdown
+  # url: https://hilios.github.io/jQuery.countdown/
 
-- name: JavaScript Cookie
-  url: https://github.com/js-cookie/js-cookie
+# - name: JavaScript Cookie
+  # url: https://github.com/js-cookie/js-cookie
 
-- name: url.js
-  url: https://github.com/websanova/js-url
+# - name: url.js
+  # url: https://github.com/websanova/js-url
 
-- name: ECharts
-  url: https://echarts.apache.org/
+# - name: ECharts
+  # url: https://echarts.apache.org/
