@@ -1,75 +1,53 @@
 - categories:
-  - name: 购物
+  - name: 快速导航
     links:
-    - name: 淘宝
+    - name: 新东方首页
+      style: basic
+      url: http://www.xdf.cn/
+    
+    - name: 前途首页
+      style: basic
+      url: http://liuxue.xdf.cn/
+      
+    - name: OA系统
       style: orange
-      url: https://www.taobao.com/
+      url: http://oa.xdf.cn/general
 
-    - name: 天猫
+    - name: CRM系统
       style: red
-      url: https://www.tmall.com/
+      url: http://qtcrm.xdf.cn/
 
-    - name: 京东
+    - name: ERP2.0
       style: basic
-      url: https://www.jd.com/
+      url: http://qtnewerp.xdf.cn/e2
 
-    - name: Amazon
-      icon: amazon yellow
-      style: basic
-      url: https://www.amazon.cn/
-
-    - name: Apple
-      style: basic
-      icon: apple grey
-      url: https://www.apple.com/
-
-    - name: 一号店
-      style: basic
-      url: https://www.yhd.com/
-
-    - name: 当当
-      style: basic
-      url: http://www.dangdang.com/
-
-    # - name: 严选
-    #   style: basic
-    #   url: http://you.163.com/
-
-    - name: UNIQLO
-      style: red
-      url: http://www.uniqlo.cn/
-
-    - name: MUJI
-      style: basic
-      url: http://www.muji.com.cn/
-
-    - name: IKEA
+    - name: EHR考勤系统
       style: yellow
-      url: https://www.ikea.cn/
+      url: http://hrssc.xdf.cn/
 
-    - name: Decathlon
+    - name: 公司邮箱
       style: blue
-      url: https://www.decathlon.com.cn/
+      url: http://mailbj.xdf.cn/
 
-    - name: 造作
+    - name: 顾问博客系统
       style: basic
-      url: https://zaozuo.com/
+      url: http://wcm.staff.xdf.cn/wcm
 
-    - name: 锤子
+    - name: 集团门户
       style: basic
-      url: http://www.smartisan.com/
+      url: http://me.xdf.cn/
 
-    - name: 大疆
-      style: black
-      url: https://www.dji.com/
+    - name: 爱·云盘
+      style: red
+      url: http://pan.xdf.cn/
 
-    - name: 小米
-      style: orange
-      url: https://www.mi.com/
-
-    - name: 有品
-      style: brown
-      url: https://xiaomiyoupin.com/
+    - name: 账号信息
+      style: basic
+      url: http://a2.xdf.cn/
+      
+    # - name: IKEA
+      # style: yellow
+      # url: https://www.ikea.cn/
 
   - name: 工具
     links:
@@ -340,9 +318,9 @@
       style: basic
       url: https://bbs.byr.cn/
 
-    - name: 北邮人BT
-      style: blue
-      url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+    #- name: 北邮人BT
+    #  style: blue
+    #  url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
 
     - name: 北邮IPTV
       style: basic
