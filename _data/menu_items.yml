@@ -3,17 +3,17 @@
   url: /
   active_key: home
 
-- name: 定制化
+- name: 修改密码
   icon: tools
-  url: /customize/
-  active_key: customize
+  url: http://a2.xdf.cn/
+  active_key: 
 
-- name: 访客分析
+- name: 忘记密码
   icon: chart bar
-  url: /analytics/
-  active_key: analytics
+  url: http://a2.xdf.cn/resetpasswd.aspx
+  active_key: 
 
-- name: 捐赠
-  icon: donate
-  url: /donate/
-  active_key: donate
+# - name: 捐献
+#  icon: donate
+#  url: /donate/
+#  active_key: donate
