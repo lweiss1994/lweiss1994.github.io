@@ -133,4 +133,3 @@ Donate [here][donate].
 [github-pages]: https://pages.github.com/ "GitHub Pages"
 [letsencrypt]: https://letsencrypt.org/ "Let&rsquo;s Encrypt"
 [linode]: https://www.linode.com/ "Linode"
-# lweiss1994.github.io
