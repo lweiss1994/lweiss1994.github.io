@@ -1,39 +1,17 @@
-repository: SXQT-Navi/SXQT-Navi
-repository_url: https://oa.xdf.cn/
+- name: 院校库
+  url: http://liuxue.xdf.cn/university/
 
-timezone: Asia/Shanghai
-lang: zh_CN
+- name: 顾问中心
+  url: http://liuxue.xdf.cn/blog/ExpertBlog/index.shtml
 
-title: 前途人导航 · SXQT-Navi
-alias_en: SXQT-Navi
-alias_cn: 前途人导航
-description: A Navigation Website for SXQT
-keywords: 前途人导航, SXQT-Navi, SXQT, Navi, Navigation
-url: http://www.orangeblock.cn
-established_at: "2020-01-01T00:00+08:00"
+- name: 产品库
+  url: http://liuxue.xdf.cn/Product/
 
-author: 陕西前途行政
-author_url: http://www.orangeblock.cn
-organization: 北京前途行政
-organization_url: http://10.150.130.51/
-contact: contact[at]irockbunny[dot]com
+- name: 案例库
+  url: http://liuxue.xdf.cn/case/
 
-image: /images/logo.png
-logo: /images/logo.png
-logo_dark: /images/logo-dark.svg
-logo_white: /images/logo-white.svg
+- name: 活动中心
+  url: http://liuxue.xdf.cn/activity/
 
-plugins:
-- jekyll-seo-tag
-- jekyll-sitemap
-
-exclude:
-- .gitignore
-- .travis.yml
-- LICENSE
-- README.md
-- CNAME
-- Gemfile
-- Gemfile.lock
-- script
-- vendor
+# - name: Linode
+  # url: https://www.linode.com/
